@@ -79,6 +79,7 @@ a {
     }
 }
 
+/* Media queries for responsive design */
 @media screen and (max-width: 700px) {
     .section__padding {
         padding: 4rem;
